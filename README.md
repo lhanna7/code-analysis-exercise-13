@@ -21,14 +21,14 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Lauren, Hanna, 24      |  Lauren Hanna 24      | 
+|  Joe, Shmoe, 50     |  Joe Shmoe 50         | 
+|   John, Deer, 18    |   John Deer 18       | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>It looks like this program allows you to take a couple of individual inputs and combine them into one output, person. This is probably something commonly used anytime you create an account somewhere and there's areas within your profile that are personalized. So entering the inputs, firstName, lastName, and age will be called upon by const person =. That way you can always call on person to get the output of firstName, lastName, and age.</td>
   </tr>
 </table>
 
