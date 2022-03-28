@@ -21,9 +21,9 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-| Lauren, Hanna, 24      |  [firstName: "Lauren", lastName: "Hanna", age: "24"]     | 
-|  Joe, Shmoe, 50     |  [firstName: "Joe", lastName: "Shmoe", age: "50"]       | 
-|   John, Deer, 18    |  [firstName: "John", lastName: "Dear", age: "18"]        | 
+| (Lauren, Hanna, 24)      |  {firstName: "Lauren", lastName: "Hanna", age: "24"}     | 
+|  (Joe, Shmoe, 50)    |  {firstName: "Joe", lastName: "Shmoe", age: "50"}       | 
+|   (John, Deer, 18)    |  {firstName: "John", lastName: "Dear", age: "18"}        | 
 
 <table>
   <tr>
